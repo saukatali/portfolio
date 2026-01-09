@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Test</title>
+    <style>
+        body {
+            padding: 50px;
+            background: #1a1a2e;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .test-btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            margin: 10px;
+            font-weight: 600;
+        }
+        .test-btn:hover {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Button Test Page</h1>
+    
+    <h2>Method 1: Simple Link (Target Blank)</h2>
+    <a href="img/Sem 6.jpg" class="test-btn" target="_blank">Open Sem 6.jpg (New Tab)</a>
+    
+    <h2>Method 2: JavaScript Window.open</h2>
+    <button class="test-btn" onclick="window.open('img/Sem 6.jpg', '_blank')">Open Sem 6.jpg (JS)</button>
+    
+    <h2>Method 3: Direct Navigation</h2>
+    <button class="test-btn" onclick="window.location.href='img/Sem 6.jpg'">Open Sem 6.jpg (Direct)</button>
+    
+    <h2>Method 4: REVA Certificate</h2>
+    <a href="img/Hackthon Reva University.png" class="test-btn" target="_blank">Open REVA Certificate</a>
+    
+    <hr>
+    <p>Click each button and see which one works. Then we'll use that method in your portfolio.</p>
+    
+    <h3>File Check:</h3>
+    <p>Open browser console (F12) and check if any errors appear when clicking.</p>
+</body>
+</html>

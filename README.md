@@ -268,36 +268,14 @@ portfolio/
 ### Issue: Icons not displaying
 - **Solution**: Check Font Awesome CDN link is active and internet connection is stable
 
-## 📈 Future Enhancements
-
-- [ ] Add a blog section
-- [ ] Integrate contact form with backend
-- [ ] Add project filter functionality
-- [ ] Include testimonials section
-- [ ] Add dark/light theme toggle
-- [ ] Implement multi-language support
-- [ ] Add loading animations for images
-- [ ] Include a 404 error page
 
 ## 📧 Contact
 
 For questions or suggestions about this portfolio template:
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: masisokatali@gmail.com
+- GitHub: https://github.com/saukatali
+- LinkedIn: https://www.linkedin.com/in/saukatali-masi-412758264/
 
-## 📄 License
 
-This project is open source and available for personal and commercial use. Feel free to customize it for your own portfolio.
-
-## 🙏 Credits
-
-- Icons: [Font Awesome](https://fontawesome.com/)
-- Fonts: [Google Fonts](https://fonts.google.com/)
-- Design Inspiration: Modern web design trends and glassmorphism aesthetics
-
----
-
-**Note**: Remember to update all placeholder links, images, and personal information before deploying your portfolio live!
 
 Made with ❤️ by Saukatali
